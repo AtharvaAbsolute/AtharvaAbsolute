@@ -1,6 +1,6 @@
 ### Hi, I'm Atharva 👋👨🏻‍💻
 
-<img src="https://raw.githubusercontent.com/AtharvaAbsolute/AtharvaAbsolute/master/1596028209453-2.png" alt="banner that says Atharva Tyagi - Android developer alongside a cartoon illustration of Atharva">
+<img src="https://raw.githubusercontent.com/AtharvaAbsolute/AtharvaAbsolute/master/Atar.png" alt="banner that says Atharva Tyagi - Android developer alongside a cartoon illustration of Atharva">
 <!--
 **AtharvaAbsolute/AtharvaAbsolute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
